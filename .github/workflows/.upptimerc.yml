@@ -1,9 +1,5 @@
 name: Setup CI
 on:
-  push:
-    paths:
-      - ".upptimerc.yml"
-on:
   schedule:
     - cron: "*/5 * * * *"
   repository_dispatch:
@@ -56,4 +52,3 @@ jobs:
           publish_dir: "site/status-page/__sapper__/export/"
           user_name: "Upptime Bot"
           user_email: "73812536+upptime-bot@users.noreply.github.com"
-          
