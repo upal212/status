@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1480,
-    "timeDay": 1480,
-    "timeWeek": 1480,
-    "timeMonth": 1480,
-    "timeYear": 1480,
+    "time": 1496,
+    "timeDay": 1496,
+    "timeWeek": 1496,
+    "timeMonth": 1496,
+    "timeYear": 1496,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cloud-linkd-lab",
     "status": "up",
-    "uptime": "61.33%",
-    "uptimeDay": "61.33%",
-    "uptimeWeek": "61.33%",
-    "uptimeMonth": "61.33%",
-    "uptimeYear": "61.33%",
-    "time": 1336,
-    "timeDay": 1336,
-    "timeWeek": 1336,
-    "timeMonth": 1336,
-    "timeYear": 1336,
+    "uptime": "62.00%",
+    "uptimeDay": "62.00%",
+    "uptimeWeek": "62.00%",
+    "uptimeMonth": "62.00%",
+    "uptimeYear": "62.00%",
+    "time": 1341,
+    "timeDay": 1341,
+    "timeWeek": 1341,
+    "timeMonth": 1341,
+    "timeYear": 1341,
     "dailyMinutesDown": {
-      "2021-05-11": 495
+      "2021-05-11": 490
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1163,
-    "timeDay": 1163,
-    "timeWeek": 1163,
-    "timeMonth": 1163,
-    "timeYear": 1163,
+    "time": 1161,
+    "timeDay": 1161,
+    "timeWeek": 1161,
+    "timeMonth": 1161,
+    "timeYear": 1161,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 289,
-    "timeDay": 289,
-    "timeWeek": 289,
-    "timeMonth": 289,
-    "timeYear": 289,
+    "time": 293,
+    "timeDay": 293,
+    "timeWeek": 293,
+    "timeMonth": 293,
+    "timeYear": 293,
     "dailyMinutesDown": {}
   }
 ]
