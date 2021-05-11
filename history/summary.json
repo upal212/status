@@ -1,74 +1,82 @@
 [
   {
     "name": "CloudLinkd.com",
-    "url": "https://www.cloudlinkd.com",
-    "icon": "https://favicons.githubusercontent.com/www.cloudlinkd.com",
+    "url": "$SECRET_SITE",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cloud-linkd-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 1471,
     "timeDay": 1471,
     "timeWeek": 1471,
     "timeMonth": 1471,
     "timeYear": 1471,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-11": 0
+    }
   },
   {
     "name": "CloudLinkd Lab",
-    "url": "https://lab.cloudlinkd.com",
-    "icon": "https://favicons.githubusercontent.com/lab.cloudlinkd.com",
+    "url": "$SECRET_SITE",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cloud-linkd-lab",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 1350,
     "timeDay": 1350,
     "timeWeek": 1350,
     "timeMonth": 1350,
     "timeYear": 1350,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-11": 0
+    }
   },
   {
     "name": "Frankfurt, Germany",
-    "url": "https://www.cloudlinkd.com",
-    "icon": "https://favicons.githubusercontent.com/www.cloudlinkd.com",
+    "url": "$SECRET_SITE",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "frankfurt-germany",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.86%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 1166,
     "timeDay": 1166,
     "timeWeek": 1166,
     "timeMonth": 1166,
     "timeYear": 1166,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-11": 0
+    }
   },
   {
     "name": "Madrid, Spain",
-    "url": "http://ksrv.xyz",
-    "icon": "https://favicons.githubusercontent.com/ksrv.xyz",
+    "url": "$SECRET_SITE",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "madrid-spain",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 261,
     "timeDay": 261,
     "timeWeek": 261,
     "timeMonth": 261,
     "timeYear": 261,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-11": 0
+    }
   }
 ]
