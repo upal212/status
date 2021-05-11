@@ -25,7 +25,7 @@ jobs:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT }}
       - name: Check endpoint status
-        uses: upptime/uptime-monitor@v1.26.4
+        uses: upal212/status
         with:
           command: "update"
         env:
