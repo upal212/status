@@ -1,23 +1,3 @@
-name: Graphs CI
 on:
   schedule:
     - cron: "*/5 * * * *"
-  repository_dispatch:
-    types: [graphs]
-  workflow_dispatch:
-jobs:
-  release:
-    name: Generate graphs
-    runs-on: ubuntu-18.04
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v2.3.3
-        with:
-          ref: ${{ github.head_ref }}
-          token: ${{ secrets.GH_PAT }}
-      - name: Generate graphs
-        uses: upptime/uptime-monitor@v1.26.4
-        with:
-          command: "graphs"
-        env:
-          GH_PAT: ${{ secrets.GH_PAT }}
