@@ -17,7 +17,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: /status
-  logoUrl: https://www.cloudlinkd.com/wp-content/uploads/2020/03/cloudlinkd-logo-black.png
+  logoUrl: https://www.cloudlinkd.com/wp-content/uploads/2020/03/cloudlinkd-footer-white.png
   name: CloudLinkd Status
   theme: dark
   introTitle: "**CloudLinkd Status**"
