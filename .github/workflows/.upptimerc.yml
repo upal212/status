@@ -9,7 +9,7 @@ jobs:
   release:
   push:
     paths:
-      - ".upptimerc.yml"
+      - ".setup.yml"
   repository_dispatch:
     types: [setup]
   workflow_dispatch:
