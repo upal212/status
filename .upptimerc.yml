@@ -10,16 +10,16 @@ sites:
   - name: Frankfurt, Germany
     url: https://www.cloudlinkd.com
   - name: Madrid, Spain
-    url: http://ksrv.xyx
+    url: http://ksrv.xyz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: /status
-  logoUrl: https://www.cloudlinkd.com/wp-content/uploads/2020/03/cloudlinkd-footer-white.png
+  logoUrl: https://www.cloudlinkd.com/wp-content/uploads/2020/03/cloudlinkd-logo-black.png
   name: CloudLinkd Status
-  theme: dark
+  theme: light
   introTitle: "**CloudLinkd Status**"
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
