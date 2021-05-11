@@ -59,18 +59,16 @@
     "icon": "https://favicons.githubusercontent.com/ksrv.xyz",
     "slug": "madrid-spain",
     "status": "up",
-    "uptime": "1.18%",
-    "uptimeDay": "1.18%",
-    "uptimeWeek": "1.18%",
-    "uptimeMonth": "1.18%",
-    "uptimeYear": "1.18%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 374,
     "timeDay": 374,
     "timeWeek": 374,
     "timeMonth": 374,
     "timeYear": 374,
-    "dailyMinutesDown": {
-      "2021-05-11": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
