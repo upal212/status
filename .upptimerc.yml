@@ -18,6 +18,9 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /status
   logoUrl: https://www.cloudlinkd.com/wp-content/uploads/2020/03/cloudlinkd-logo-black.png
+  on:
+  schedule:
+    - cron: "*/5 * * * *"
   name: CloudLinkd Status
   theme: light
   introTitle: "**CloudLinkd Status**"
@@ -25,9 +28,3 @@ status-website:
   #navbar:
     #- title: CloudLinkd Status
       #href: /
-
-on:
-  schedule:
-    - cron: "*/5 * * * *"
-  repository_dispatch:
-    types: [uptime]
