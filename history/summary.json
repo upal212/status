@@ -22,19 +22,19 @@
     "url": "$CLOUDLINKDLAB",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cloud-linkd-lab",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1353,
-    "timeDay": 1327,
-    "timeWeek": 1353,
-    "timeMonth": 1353,
-    "timeYear": 1353,
+    "status": "up",
+    "uptime": "98.99%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "98.99%",
+    "uptimeMonth": "98.99%",
+    "uptimeYear": "98.99%",
+    "time": 1346,
+    "timeDay": 1325,
+    "timeWeek": 1346,
+    "timeMonth": 1346,
+    "timeYear": 1346,
     "dailyMinutesDown": {
-      "2021-05-12": 0
+      "2021-05-12": 19
     }
   },
   {
