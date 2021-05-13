@@ -1,7 +1,7 @@
 url: $CLOUDLINKDLAB
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2021-05-13T14:57:19.757Z
+status: up
+code: 200
+responseTime: 1404
+lastUpdated: 2021-05-13T15:31:53.447Z
 startTime: Tue May 11 2021 01:57:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
