@@ -20,7 +20,7 @@ status-website:
   logoUrl: https://www.cloudlinkd.com/wp-content/uploads/2020/03/cloudlinkd-logo-black.png
   name: "CloudLinkd Status"
   theme: light
-  introTitle: "**CloudLinkd Status**"
+  introTitle: **CloudLinkd Status**
   introMessage: cloudlinkd.com
   #navbar:
     - title: CloudLinkd Status
