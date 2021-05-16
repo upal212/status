@@ -31,5 +31,5 @@ status-website:
     staticSite: "*/5 * * * *"
     summary: "*/5 * * * *"
     updateTemplate: "*/5 * * * *"
-    updates: "*/5 * * * *
+    updates: "*/5 * * * *"
     uptime: "*/5 * * * *"
