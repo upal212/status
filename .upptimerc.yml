@@ -25,11 +25,13 @@ status-website:
   #navbar:
     #- title: CloudLinkd Status
       #href: /
-  workflowSchedule:
-    graphs: "*/5 * * * *"
-    responseTime: "*/5 * * * *"
-    staticSite: "*/5 * * * *"
-    summary: "*/5 * * * *"
-    updateTemplate: "*/5 * * * *"
-    updates: "*/5 * * * *"
-    uptime: "*/5 * * * *"
+
+workflowSchedule:
+  responseTime: "*/10 * * * *"
+  staticSite: "*/10 * * * *"
+  summary: "*/10 * * * *"
+  updates: "*/10 * * * *"
+  uptime: "*/10 * * * *"
+
+i18n:
+  footer: Made with ❤️ by [CloudLinkd](https://www.cloudlinkd.com)
