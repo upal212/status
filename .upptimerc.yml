@@ -33,3 +33,4 @@ status-website:
     updateTemplate: "*/5 * * * *"
     updates: "*/5 * * * *"
     uptime: "*/5 * * * *"
+    
