@@ -26,6 +26,7 @@ status-website:
     #- title: CloudLinkd Status
       #href: /
 
+
 workflowSchedule:
   responseTime: "*/10 * * * *"
   staticSite: "*/10 * * * *"
