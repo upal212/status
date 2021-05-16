@@ -23,5 +23,5 @@ status-website:
   #introTitle: **CloudLinkd Status**
   introMessage: cloudlinkd.com
   #navbar:
-    - title: CloudLinkd Status
-      href: /
+    #- title: CloudLinkd Status
+      #href: /
