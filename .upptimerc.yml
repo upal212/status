@@ -62,19 +62,15 @@ status-website:
   --submit-button-border-color: #1a46ad;
   --submit-button-background-color: #3867d6;
   --submit-button-color: #ffffff;
-  --graph-opacity: 1;
-  --graph-filter: invert(44%) sepia(93%) saturate(2391%) hue-rotate(178deg) brightness(103%) contrast(106%);
 }
     .svelte-a08hsz { background-color: #111111; color: white; }
     article { border: 1px solid #101010; padding: 1rem 1.25rem; position: relative; border-radius: 0; background-color: #222222; }
-    article.good.svelte-1uadwzk { background-color: green; color: white; }    
-    chartjs-render-monitor { filter: invert(44%) sepia(93%) saturate(2391%) hue-rotate(178deg) brightness(103%) contrast(106%); }
+    article.good.svelte-1uadwzk { background-color: green; color: white; }
     body { background-color: #222222; color: white; }
     article { background-color: #111111; }
     nav.svelte-1pyc7i4.svelte-1pyc7i4, nav.svelte-1sgaob0.svelte-1sgaob0 { background: #222222; border-bottom: 1px solid silver; }
     .tag { border-radius: 0; }
     .tag.closed, .tag.up { background-color: green; }
-    .chartjs-render-monitor { animation: chartjs-render-animation 0.001s; filter: invert(44%) sepia(93%) saturate(2391%) hue-rotate(178deg) brightness(103%) contrast(106%); }
     "
 
 
