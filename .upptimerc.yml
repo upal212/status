@@ -70,7 +70,7 @@ status-website:
     article { background-color: #111111; }
     nav.svelte-1pyc7i4.svelte-1pyc7i4, nav.svelte-1sgaob0.svelte-1sgaob0 { background: #222222; border-bottom: 1px solid silver; }
     .tag { border-radius: 0; }
-    .tag.closed, .tag.up { background-color: green; }
+    .tag.closed, .tag.up { background-color: #2ed573; }
     "
 
 
