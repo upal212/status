@@ -29,7 +29,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: /status
-  logoUrl: https://www.cloudlinkd.com/wp-content/uploads/2020/03/cloudlinkd-footer-white.png
+  logoUrl: https://www.cloudlinkd.com/wp-content/uploads/2020/03/cloudlinkd-logo-black.png
   name: CloudLinkd Status
   theme: light
   #introTitle: **CloudLinkd Status**
@@ -40,15 +40,11 @@ status-website:
   favicon: https://www.cloudlinkd.com/wp-content/uploads/2019/01/favicon-96.png
   css:   "
    :root {
-  --nav-background-color: #ffffff;
-  --nav-border-bottom-color: #d8e8e4;
-  --nav-current-border-bottom-color: #1abc9c;
   --down-border-left-color: #eb3b5a;
   --down-background-color: #eb3b5a;
   --degraded-border-left-color: #f7b731;
   --up-border-left-color: #20bf6b;
 }
-nav.svelte-1pyc7i4.svelte-1pyc7i4, nav.svelte-1sgaob0.svelte-1sgaob0 { background: #222222; border-bottom: 1px solid silver; }
         "
 
 
