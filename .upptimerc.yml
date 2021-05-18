@@ -48,6 +48,7 @@ status-website:
   --degraded-border-left-color: #f7b731;
   --up-border-left-color: #20bf6b;
 }
+nav.svelte-1pyc7i4.svelte-1pyc7i4, nav.svelte-1sgaob0.svelte-1sgaob0 { background: #222222; border-bottom: 1px solid silver; }
         "
 
 
