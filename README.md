@@ -1,7 +1,5 @@
 # [📈 Live Status](https://upptime.github.io/upptime): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Upptime](https://upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
-
 [![Uptime CI](https://github.com/upal212/status/workflows/Uptime%20CI/badge.svg)](https://github.com/upal2129/status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/upal212/status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/upal212/status/actions?query=workflow%3A%22Response+Time+CI%22)
 [![Graphs CI](https://github.com/upal212/status/workflows/Graphs%20CI/badge.svg)](https://github.com/upal2129/status/actions?query=workflow%3A%22Graphs+CI%22)
