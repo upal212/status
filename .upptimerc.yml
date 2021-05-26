@@ -48,7 +48,6 @@ status-website:
         "
 
 
-
 workflowSchedule:
   responseTime: "*/10 * * * *"
   staticSite: "*/10 * * * *"
