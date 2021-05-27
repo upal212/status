@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1502,
     "timeDay": 1752,
-    "timeWeek": 1476,
+    "timeWeek": 1478,
     "timeMonth": 1502,
     "timeYear": 1502,
     "dailyMinutesDown": {}
@@ -95,18 +95,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "madrid-spain",
     "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "98.15%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.84%",
+    "uptimeDay": "97.38%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
     "time": 282,
     "timeDay": 283,
     "timeWeek": 244,
     "timeMonth": 282,
     "timeYear": 282,
     "dailyMinutesDown": {
-      "2021-05-27": 0,
+      "2021-05-27": 11,
       "2021-05-26": 26
     }
   },
@@ -159,7 +159,7 @@
     "uptimeYear": "100.00%",
     "time": 982,
     "timeDay": 1141,
-    "timeWeek": 981,
+    "timeWeek": 982,
     "timeMonth": 982,
     "timeYear": 982,
     "dailyMinutesDown": {}
@@ -177,7 +177,7 @@
     "uptimeYear": "100.00%",
     "time": 255,
     "timeDay": 262,
-    "timeWeek": 251,
+    "timeWeek": 252,
     "timeMonth": 255,
     "timeYear": 255,
     "dailyMinutesDown": {}
