@@ -13,8 +13,6 @@ sites:
     url: $AMSTERDAM
   - name: Frankfurt, Germany
     url: $FRANKFURT
-  - name: Madrid, Spain
-    url: $MADRID
   - name: London, United Kingdom
     url: $LONDON
   - name: Montreal, Canada
