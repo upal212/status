@@ -1,7 +1,7 @@
 url: $MADRID
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2021-05-30T17:52:11.655Z
+status: up
+code: 200
+responseTime: 286
+lastUpdated: 2021-05-30T18:27:14.422Z
 startTime: Tue May 11 2021 01:57:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
