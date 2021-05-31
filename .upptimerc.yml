@@ -15,6 +15,8 @@ sites:
     url: $FRANKFURT
   - name: London, United Kingdom
     url: $LONDON
+  - name: Madrid, Spain
+    url: $MADRID
   - name: Montreal, Canada
     url: $MONTREAL
   - name: Singapore
