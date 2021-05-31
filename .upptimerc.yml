@@ -1,33 +1,25 @@
 owner: upal212 # GitHub username
 repo: status # GitHub repository name
+
 sites: # List of endpoints to track
   - name: CloudLinkd.com
     url: $CLOUDLINKD
-    
   - name: CloudLinkd Lab
     url: $LAB
-    
   - name: Paris, France
     url: $PARIS
-    
   - name: Amsterdam, Netherlands
     url: $AMSTERDAM
-    
   - name: Frankfurt, Germany
     url: $FRANKFURT
-    
   - name: London, United Kingdom
     url: $LONDON
-    
   - name: Madrid, Spain
     url: $MADRID
-    
   - name: Montreal, Canada
     url: $MONTREAL
-    
   - name: Singapore
     url: $SINGAPORE
-    
   - name: Hyderabad, India
     url: $HYDERABAD
 
@@ -56,11 +48,11 @@ status-website:
 
 
 workflowSchedule:
-  responseTime: "*/10 * * * *"
-  staticSite: "*/10 * * * *"
-  summary: "*/10 * * * *"
-  updates: "*/10 * * * *"
-  uptime: "*/10 * * * *"
+  responseTime: "*/5 * * * *"
+  staticSite: "*/5 * * * *"
+  summary: "*/5 * * * *"
+  updates: "*/5 * * * *"
+  uptime: "*/5 * * * *"
 
 i18n:
   footer: Made with ❤️ by [CloudLinkd](https://www.cloudlinkd.com)
