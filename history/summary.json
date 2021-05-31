@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cloud-linkd-com",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1516,
     "timeDay": 1440,
     "timeWeek": 1580,
     "timeMonth": 1516,
     "timeYear": 1516,
-    "dailyMinutesDown": {
-      "2021-05-31": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CloudLinkd Lab",
@@ -44,8 +42,8 @@
     "slug": "paris-france",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
     "time": 1072,
@@ -54,7 +52,7 @@
     "timeMonth": 1072,
     "timeYear": 1072,
     "dailyMinutesDown": {
-      "2021-05-31": 3
+      "2021-05-31": 4
     }
   },
   {
@@ -82,8 +80,8 @@
     "slug": "frankfurt-germany",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 1026,
@@ -92,7 +90,7 @@
     "timeMonth": 1026,
     "timeYear": 1026,
     "dailyMinutesDown": {
-      "2021-05-31": 3
+      "2021-05-31": 4
     }
   },
   {
@@ -101,19 +99,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "london-united-kingdom",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 987,
     "timeDay": 1053,
     "timeWeek": 1031,
     "timeMonth": 987,
     "timeYear": 987,
-    "dailyMinutesDown": {
-      "2021-05-31": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Madrid, Spain",
@@ -157,19 +153,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "singapore",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1001,
     "timeDay": 1044,
     "timeWeek": 1067,
     "timeMonth": 1001,
     "timeYear": 1001,
-    "dailyMinutesDown": {
-      "2021-05-31": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hyderabad, India",
