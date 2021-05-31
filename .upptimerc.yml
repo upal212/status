@@ -3,8 +3,6 @@ repo: status # GitHub repository name
 sites: # List of endpoints to track
   - name: CloudLinkd.com
     url: $CLOUDLINKD
-    method: GET
-    maxResponseTime: 1000
     
   - name: CloudLinkd Lab
     url: $LAB
