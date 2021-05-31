@@ -48,11 +48,11 @@ status-website:
 
 
 workflowSchedule:
-  responseTime: "*/5 * * * *"
-  staticSite: "*/5 * * * *"
-  summary: "*/5 * * * *"
-  updates: "*/5 * * * *"
-  uptime: "*/5 * * * *"
+  responseTime: "*/10 * * * *"
+  staticSite: "*/10 * * * *"
+  summary: "*/10 * * * *"
+  updates: "*/10 * * * *"
+  uptime: "*/10 * * * *"
 
 i18n:
   footer: Made with ❤️ by [CloudLinkd](https://www.cloudlinkd.com)
