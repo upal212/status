@@ -8,48 +8,30 @@ sites: # List of endpoints to track
     
   - name: CloudLinkd Lab
     url: $LAB
-    method: GET
-    maxResponseTime: 1000
     
   - name: Paris, France
     url: $PARIS
-    method: GET
-    maxResponseTime: 1000
     
   - name: Amsterdam, Netherlands
     url: $AMSTERDAM
-    method: GET
-    maxResponseTime: 1000
     
   - name: Frankfurt, Germany
     url: $FRANKFURT
-    method: GET
-    maxResponseTime: 1000
     
   - name: London, United Kingdom
     url: $LONDON
-    method: GET
-    maxResponseTime: 1000
     
   - name: Madrid, Spain
     url: $MADRID
-    method: GET
-    maxResponseTime: 1000
     
   - name: Montreal, Canada
     url: $MONTREAL
-    method: GET
-    maxResponseTime: 1000
     
   - name: Singapore
     url: $SINGAPORE
-    method: GET
-    maxResponseTime: 1000
     
   - name: Hyderabad, India
     url: $HYDERABAD
-    method: GET
-    maxResponseTime: 1000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
