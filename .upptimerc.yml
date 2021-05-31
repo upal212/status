@@ -1,28 +1,56 @@
 # Change these first
-owner: upal212 # Your GitHub organization or username, where this repository lives
-repo: status # The name of this repository
-
-sites:
+owner: upal212 # GitHub username
+repo: status # GitHub repository name
+sites: # List of endpoints to track
   - name: CloudLinkd.com
     url: $CLOUDLINKD
+    method: GET
+    maxResponseTime: 1000
+    
   - name: CloudLinkd Lab
     url: $LAB
+    method: GET
+    maxResponseTime: 1000
+    
   - name: Paris, France
     url: $PARIS
+    method: GET
+    maxResponseTime: 1000
+    
   - name: Amsterdam, Netherlands
     url: $AMSTERDAM
+    method: GET
+    maxResponseTime: 1000
+    
   - name: Frankfurt, Germany
     url: $FRANKFURT
+    method: GET
+    maxResponseTime: 1000
+    
   - name: London, United Kingdom
     url: $LONDON
+    method: GET
+    maxResponseTime: 1000
+    
   - name: Madrid, Spain
     url: $MADRID
+    method: GET
+    maxResponseTime: 1000
+    
   - name: Montreal, Canada
     url: $MONTREAL
+    method: GET
+    maxResponseTime: 1000
+    
   - name: Singapore
     url: $SINGAPORE
+    method: GET
+    maxResponseTime: 1000
+    
   - name: Hyderabad, India
     url: $HYDERABAD
+    method: GET
+    maxResponseTime: 1000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
