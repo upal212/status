@@ -38,7 +38,6 @@ status-website:
       #href: /
   favicon: https://www.cloudlinkd.com/wp-content/uploads/2019/01/favicon-96.png
 
-
 workflowSchedule:
   responseTime: "*/10 * * * *"
   staticSite: "*/10 * * * *"
