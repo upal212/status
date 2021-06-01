@@ -38,12 +38,13 @@ status-website:
       #href: /
   favicon: https://www.cloudlinkd.com/wp-content/uploads/2019/01/favicon-96.png
 
+
 workflowSchedule:
-  -cron responseTime: "*/5 * * * *"
-  -cron staticSite: "*/5 * * * *"
-  -cron summary: "*/5 * * * *"
-  -cron updates: "*/5 * * * *"
-  -cron uptime: "*/5 * * * *"
+  responseTime: "*/10 * * * *"
+  staticSite: "*/10 * * * *"
+  summary: "*/10 * * * *"
+  updates: "*/10 * * * *"
+  uptime: "*/10 * * * *"
 
 i18n:
   footer: Made with ❤️ by [CloudLinkd](https://www.cloudlinkd.com)
