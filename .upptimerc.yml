@@ -37,23 +37,13 @@ status-website:
     #- title: CloudLinkd Status
       #href: /
   favicon: https://www.cloudlinkd.com/wp-content/uploads/2019/01/favicon-96.png
-  css:   "
-   :root {
-  --down-border-left-color: #eb3b5a;
-  --down-background-color: #eb3b5a;
-  --degraded-border-left-color: #f7b731;
-  --up-border-left-color: #20bf6b;
-}
-        "
-
 
 workflowSchedule:
-  responseTime: "*/10 * * * *"
-  staticSite: "*/10 * * * *"
-  summary: "*/10 * * * *"
-  updates: "*/10 * * * *"
-  uptime: "*/10 * * * *"
+  -cron responseTime: "*/5 * * * *"
+  -cron staticSite: "*/5 * * * *"
+  -cron summary: "*/5 * * * *"
+  -cron updates: "*/5 * * * *"
+  -cron uptime: "*/5 * * * *"
 
 i18n:
   footer: Made with ❤️ by [CloudLinkd](https://www.cloudlinkd.com)
-  
