@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cloud-linkd-com",
     "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "88.34%",
-    "uptimeWeek": "98.33%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.80%",
+    "uptime": "99.79%",
+    "uptimeDay": "87.65%",
+    "uptimeWeek": "98.24%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.79%",
     "time": 1505,
-    "timeDay": 1285,
-    "timeWeek": 1408,
+    "timeDay": 1267,
+    "timeWeek": 1405,
     "timeMonth": 1498,
     "timeYear": 1505,
     "dailyMinutesDown": {
-      "2021-07-07": 168
+      "2021-07-07": 178
     }
   },
   {
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 374,
-    "timeDay": 367,
-    "timeWeek": 357,
+    "timeDay": 369,
+    "timeWeek": 358,
     "timeMonth": 349,
     "timeYear": 374,
     "dailyMinutesDown": {}
@@ -43,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "paris-france",
     "status": "down",
-    "uptime": "99.77%",
-    "uptimeDay": "88.32%",
-    "uptimeWeek": "98.33%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.77%",
+    "uptime": "99.76%",
+    "uptimeDay": "87.63%",
+    "uptimeWeek": "98.23%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.76%",
     "time": 1090,
-    "timeDay": 955,
-    "timeWeek": 1062,
-    "timeMonth": 1094,
+    "timeDay": 941,
+    "timeWeek": 1060,
+    "timeMonth": 1093,
     "timeYear": 1090,
     "dailyMinutesDown": {
-      "2021-07-07": 168
+      "2021-07-07": 178
     }
   },
   {
@@ -81,18 +81,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "frankfurt-germany",
     "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "88.30%",
-    "uptimeWeek": "98.33%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.80%",
-    "time": 1025,
-    "timeDay": 894,
-    "timeWeek": 991,
+    "uptime": "99.79%",
+    "uptimeDay": "87.60%",
+    "uptimeWeek": "98.23%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.79%",
+    "time": 1024,
+    "timeDay": 883,
+    "timeWeek": 989,
     "timeMonth": 1025,
-    "timeYear": 1025,
+    "timeYear": 1024,
     "dailyMinutesDown": {
-      "2021-07-07": 168
+      "2021-07-07": 179
     }
   },
   {
@@ -101,18 +101,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "london-united-kingdom",
     "status": "down",
-    "uptime": "99.77%",
-    "uptimeDay": "88.30%",
-    "uptimeWeek": "98.33%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.77%",
-    "time": 994,
-    "timeDay": 873,
-    "timeWeek": 967,
-    "timeMonth": 994,
-    "timeYear": 994,
+    "uptime": "99.76%",
+    "uptimeDay": "87.59%",
+    "uptimeWeek": "98.23%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.76%",
+    "time": 993,
+    "timeDay": 858,
+    "timeWeek": 965,
+    "timeMonth": 993,
+    "timeYear": 993,
     "dailyMinutesDown": {
-      "2021-07-07": 169
+      "2021-07-07": 179
     }
   },
   {
@@ -127,9 +127,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1052,
-    "timeDay": 1916,
-    "timeWeek": 1779,
-    "timeMonth": 1301,
+    "timeDay": 1923,
+    "timeWeek": 1780,
+    "timeMonth": 1302,
     "timeYear": 1052,
     "dailyMinutesDown": {}
   },
@@ -145,7 +145,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 258,
-    "timeDay": 276,
+    "timeDay": 277,
     "timeWeek": 268,
     "timeMonth": 260,
     "timeYear": 258,
@@ -157,18 +157,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "singapore",
     "status": "down",
-    "uptime": "99.77%",
-    "uptimeDay": "88.28%",
-    "uptimeWeek": "98.33%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.77%",
-    "time": 1042,
-    "timeDay": 968,
-    "timeWeek": 1045,
+    "uptime": "99.76%",
+    "uptimeDay": "87.55%",
+    "uptimeWeek": "98.22%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.76%",
+    "time": 1041,
+    "timeDay": 957,
+    "timeWeek": 1044,
     "timeMonth": 1052,
-    "timeYear": 1042,
+    "timeYear": 1041,
     "dailyMinutesDown": {
-      "2021-07-07": 169
+      "2021-07-07": 179
     }
   },
   {
