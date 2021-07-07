@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cloud-linkd-com",
     "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "94.22%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.90%",
+    "uptime": "99.89%",
+    "uptimeDay": "93.70%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.89%",
     "time": 1508,
-    "timeDay": 1402,
-    "timeWeek": 1424,
+    "timeDay": 1390,
+    "timeWeek": 1421,
     "timeMonth": 1502,
     "timeYear": 1508,
     "dailyMinutesDown": {
-      "2021-07-07": 83
+      "2021-07-07": 91
     }
   },
   {
@@ -32,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 374,
     "timeDay": 366,
-    "timeWeek": 358,
+    "timeWeek": 357,
     "timeMonth": 348,
     "timeYear": 374,
     "dailyMinutesDown": {}
@@ -43,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "paris-france",
     "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "94.20%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.89%",
-    "time": 1093,
-    "timeDay": 1045,
-    "timeWeek": 1073,
+    "uptime": "99.88%",
+    "uptimeDay": "93.68%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.88%",
+    "time": 1092,
+    "timeDay": 1035,
+    "timeWeek": 1071,
     "timeMonth": 1097,
-    "timeYear": 1093,
+    "timeYear": 1092,
     "dailyMinutesDown": {
-      "2021-07-07": 83
+      "2021-07-07": 91
     }
   },
   {
@@ -81,18 +81,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "frankfurt-germany",
     "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "94.19%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.90%",
+    "uptime": "99.89%",
+    "uptimeDay": "93.67%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.89%",
     "time": 1027,
-    "timeDay": 987,
-    "timeWeek": 1002,
+    "timeDay": 979,
+    "timeWeek": 1001,
     "timeMonth": 1028,
     "timeYear": 1027,
     "dailyMinutesDown": {
-      "2021-07-07": 84
+      "2021-07-07": 91
     }
   },
   {
@@ -101,18 +101,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "london-united-kingdom",
     "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "94.18%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.88%",
+    "uptimeDay": "93.66%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.88%",
     "time": 996,
-    "timeDay": 956,
-    "timeWeek": 977,
-    "timeMonth": 997,
+    "timeDay": 948,
+    "timeWeek": 975,
+    "timeMonth": 996,
     "timeYear": 996,
     "dailyMinutesDown": {
-      "2021-07-07": 84
+      "2021-07-07": 91
     }
   },
   {
@@ -128,7 +128,7 @@
     "uptimeYear": "100.00%",
     "time": 1047,
     "timeDay": 1802,
-    "timeWeek": 1761,
+    "timeWeek": 1760,
     "timeMonth": 1295,
     "timeYear": 1047,
     "dailyMinutesDown": {}
@@ -157,18 +157,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "singapore",
     "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "94.16%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.88%",
+    "uptimeDay": "93.64%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.88%",
     "time": 1044,
-    "timeDay": 1058,
-    "timeWeek": 1057,
+    "timeDay": 1052,
+    "timeWeek": 1055,
     "timeMonth": 1055,
     "timeYear": 1044,
     "dailyMinutesDown": {
-      "2021-07-07": 84
+      "2021-07-07": 92
     }
   },
   {
