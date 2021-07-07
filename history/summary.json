@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cloud-linkd-com",
     "status": "down",
-    "uptime": "99.75%",
-    "uptimeDay": "85.40%",
-    "uptimeWeek": "97.91%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "99.75%",
-    "time": 1504,
-    "timeDay": 1238,
-    "timeWeek": 1402,
+    "uptime": "99.73%",
+    "uptimeDay": "84.59%",
+    "uptimeWeek": "97.80%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.73%",
+    "time": 1503,
+    "timeDay": 1226,
+    "timeWeek": 1400,
     "timeMonth": 1496,
-    "timeYear": 1504,
+    "timeYear": 1503,
     "dailyMinutesDown": {
-      "2021-07-07": 210
+      "2021-07-07": 222
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "paris-france",
     "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "85.38%",
-    "uptimeWeek": "97.91%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "99.72%",
+    "uptime": "99.70%",
+    "uptimeDay": "84.57%",
+    "uptimeWeek": "97.80%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.70%",
     "time": 1089,
-    "timeDay": 920,
-    "timeWeek": 1057,
+    "timeDay": 908,
+    "timeWeek": 1056,
     "timeMonth": 1092,
     "timeYear": 1089,
     "dailyMinutesDown": {
-      "2021-07-07": 211
+      "2021-07-07": 222
     }
   },
   {
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 257,
-    "timeDay": 270,
+    "time": 256,
+    "timeDay": 269,
     "timeWeek": 261,
     "timeMonth": 257,
-    "timeYear": 257,
+    "timeYear": 256,
     "dailyMinutesDown": {}
   },
   {
@@ -81,18 +81,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "frankfurt-germany",
     "status": "down",
-    "uptime": "99.75%",
-    "uptimeDay": "85.35%",
-    "uptimeWeek": "97.91%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "99.75%",
-    "time": 1024,
-    "timeDay": 862,
-    "timeWeek": 987,
+    "uptime": "99.73%",
+    "uptimeDay": "84.55%",
+    "uptimeWeek": "97.79%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.73%",
+    "time": 1023,
+    "timeDay": 851,
+    "timeWeek": 986,
     "timeMonth": 1024,
-    "timeYear": 1024,
+    "timeYear": 1023,
     "dailyMinutesDown": {
-      "2021-07-07": 211
+      "2021-07-07": 222
     }
   },
   {
@@ -101,18 +101,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "london-united-kingdom",
     "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "85.34%",
-    "uptimeWeek": "97.91%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "99.72%",
-    "time": 993,
-    "timeDay": 837,
-    "timeWeek": 962,
-    "timeMonth": 993,
-    "timeYear": 993,
+    "uptime": "99.70%",
+    "uptimeDay": "84.55%",
+    "uptimeWeek": "97.79%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.70%",
+    "time": 992,
+    "timeDay": 829,
+    "timeWeek": 961,
+    "timeMonth": 992,
+    "timeYear": 992,
     "dailyMinutesDown": {
-      "2021-07-07": 211
+      "2021-07-07": 223
     }
   },
   {
@@ -127,8 +127,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1053,
-    "timeDay": 1937,
-    "timeWeek": 1781,
+    "timeDay": 1938,
+    "timeWeek": 1782,
     "timeMonth": 1303,
     "timeYear": 1053,
     "dailyMinutesDown": {}
@@ -157,18 +157,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "singapore",
     "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "85.30%",
-    "uptimeWeek": "97.90%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "99.72%",
-    "time": 1041,
-    "timeDay": 933,
-    "timeWeek": 1041,
-    "timeMonth": 1051,
-    "timeYear": 1041,
+    "uptime": "99.70%",
+    "uptimeDay": "84.53%",
+    "uptimeWeek": "97.79%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.70%",
+    "time": 1040,
+    "timeDay": 925,
+    "timeWeek": 1040,
+    "timeMonth": 1050,
+    "timeYear": 1040,
     "dailyMinutesDown": {
-      "2021-07-07": 212
+      "2021-07-07": 223
     }
   },
   {
@@ -183,7 +183,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 262,
-    "timeDay": 265,
+    "timeDay": 264,
     "timeWeek": 260,
     "timeMonth": 265,
     "timeYear": 262,
