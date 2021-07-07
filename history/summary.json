@@ -4,18 +4,20 @@
     "url": "$CLOUDLINKD",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cloud-linkd-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1511,
-    "timeDay": 1478,
-    "timeWeek": 1435,
+    "time": 1510,
+    "timeDay": 1466,
+    "timeWeek": 1432,
     "timeMonth": 1505,
-    "timeYear": 1511,
-    "dailyMinutesDown": {}
+    "timeYear": 1510,
+    "dailyMinutesDown": {
+      "2021-07-07": 0
+    }
   },
   {
     "name": "CloudLinkd Lab",
@@ -40,18 +42,20 @@
     "url": "$PARIS",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "paris-france",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1095,
-    "timeDay": 1113,
-    "timeWeek": 1082,
-    "timeMonth": 1100,
-    "timeYear": 1095,
-    "dailyMinutesDown": {}
+    "time": 1094,
+    "timeDay": 1101,
+    "timeWeek": 1079,
+    "timeMonth": 1099,
+    "timeYear": 1094,
+    "dailyMinutesDown": {
+      "2021-07-07": 1
+    }
   },
   {
     "name": "Amsterdam, Netherlands",
@@ -66,7 +70,7 @@
     "uptimeYear": "100.00%",
     "time": 257,
     "timeDay": 275,
-    "timeWeek": 262,
+    "timeWeek": 261,
     "timeMonth": 257,
     "timeYear": 257,
     "dailyMinutesDown": {}
@@ -76,36 +80,40 @@
     "url": "$FRANKFURT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "frankfurt-germany",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1029,
-    "timeDay": 1040,
-    "timeWeek": 1012,
-    "timeMonth": 1031,
-    "timeYear": 1029,
-    "dailyMinutesDown": {}
+    "time": 1028,
+    "timeDay": 1029,
+    "timeWeek": 1009,
+    "timeMonth": 1030,
+    "timeYear": 1028,
+    "dailyMinutesDown": {
+      "2021-07-07": 1
+    }
   },
   {
     "name": "London, United Kingdom",
     "url": "$LONDON",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "london-united-kingdom",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 998,
-    "timeDay": 1023,
-    "timeWeek": 985,
+    "time": 997,
+    "timeDay": 1012,
+    "timeWeek": 982,
     "timeMonth": 999,
-    "timeYear": 998,
-    "dailyMinutesDown": {}
+    "timeYear": 997,
+    "dailyMinutesDown": {
+      "2021-07-07": 1
+    }
   },
   {
     "name": "Madrid, Spain",
@@ -120,7 +128,7 @@
     "uptimeYear": "100.00%",
     "time": 1045,
     "timeDay": 1794,
-    "timeWeek": 1759,
+    "timeWeek": 1757,
     "timeMonth": 1294,
     "timeYear": 1045,
     "dailyMinutesDown": {}
@@ -148,18 +156,20 @@
     "url": "$SINGAPORE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "singapore",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1046,
-    "timeDay": 1125,
-    "timeWeek": 1065,
-    "timeMonth": 1058,
+    "timeDay": 1113,
+    "timeWeek": 1063,
+    "timeMonth": 1057,
     "timeYear": 1046,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-07": 2
+    }
   },
   {
     "name": "Hyderabad, India",
