@@ -10,13 +10,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "57.77%",
-    "time": 738,
-    "timeDay": 94,
+    "time": 737,
+    "timeDay": 95,
     "timeWeek": 100,
     "timeMonth": 88,
-    "timeYear": 738,
+    "timeYear": 737,
     "dailyMinutesDown": {
-      "2021-08-18": 1295,
+      "2021-08-18": 1303,
       "2021-08-17": 1440,
       "2021-08-16": 1440,
       "2021-08-15": 1440,
@@ -73,7 +73,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 368,
-    "timeDay": 355,
+    "timeDay": 354,
     "timeWeek": 392,
     "timeMonth": 364,
     "timeYear": 368,
@@ -96,7 +96,7 @@
     "timeMonth": 14,
     "timeYear": 499,
     "dailyMinutesDown": {
-      "2021-08-18": 1296,
+      "2021-08-18": 1304,
       "2021-08-17": 1440,
       "2021-08-16": 1440,
       "2021-08-15": 1440,
@@ -147,18 +147,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "amsterdam-netherlands",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "97.09%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.96%",
+    "uptimeDay": "96.54%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.96%",
     "time": 264,
     "timeDay": 275,
     "timeWeek": 279,
     "timeMonth": 271,
     "timeYear": 264,
     "dailyMinutesDown": {
-      "2021-08-18": 42
+      "2021-08-18": 50
     }
   },
   {
@@ -178,7 +178,7 @@
     "timeMonth": 13,
     "timeYear": 477,
     "dailyMinutesDown": {
-      "2021-08-18": 1297,
+      "2021-08-18": 1305,
       "2021-08-17": 1440,
       "2021-08-16": 1440,
       "2021-08-15": 1440,
@@ -240,7 +240,7 @@
     "timeMonth": 13,
     "timeYear": 456,
     "dailyMinutesDown": {
-      "2021-08-18": 1297,
+      "2021-08-18": 1305,
       "2021-08-17": 1440,
       "2021-08-16": 1440,
       "2021-08-15": 1440,
@@ -297,8 +297,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 1403,
-    "timeDay": 1622,
-    "timeWeek": 1692,
+    "timeDay": 1621,
+    "timeWeek": 1691,
     "timeMonth": 1665,
     "timeYear": 1403,
     "dailyMinutesDown": {
@@ -340,7 +340,7 @@
     "timeMonth": 14,
     "timeYear": 477,
     "dailyMinutesDown": {
-      "2021-08-18": 1298,
+      "2021-08-18": 1306,
       "2021-08-17": 1440,
       "2021-08-16": 1440,
       "2021-08-15": 1440,
