@@ -11,12 +11,12 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "57.59%",
     "time": 735,
-    "timeDay": 94,
+    "timeDay": 93,
     "timeWeek": 101,
     "timeMonth": 88,
     "timeYear": 735,
     "dailyMinutesDown": {
-      "2021-08-19": 295,
+      "2021-08-19": 307,
       "2021-08-18": 1440,
       "2021-08-17": 1440,
       "2021-08-16": 1440,
@@ -75,7 +75,7 @@
     "uptimeYear": "100.00%",
     "time": 368,
     "timeDay": 345,
-    "timeWeek": 391,
+    "timeWeek": 392,
     "timeMonth": 364,
     "timeYear": 368,
     "dailyMinutesDown": {}
@@ -97,7 +97,7 @@
     "timeMonth": 14,
     "timeYear": 498,
     "dailyMinutesDown": {
-      "2021-08-19": 296,
+      "2021-08-19": 308,
       "2021-08-18": 1440,
       "2021-08-17": 1440,
       "2021-08-16": 1440,
@@ -150,9 +150,9 @@
     "slug": "amsterdam-netherlands",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "66.53%",
-    "uptimeWeek": "95.22%",
-    "uptimeMonth": "98.90%",
+    "uptimeDay": "65.68%",
+    "uptimeWeek": "95.10%",
+    "uptimeMonth": "98.87%",
     "uptimeYear": "99.64%",
     "time": 264,
     "timeDay": 268,
@@ -160,7 +160,7 @@
     "timeMonth": 272,
     "timeYear": 264,
     "dailyMinutesDown": {
-      "2021-08-19": 297,
+      "2021-08-19": 309,
       "2021-08-18": 185
     }
   },
@@ -181,7 +181,7 @@
     "timeMonth": 14,
     "timeYear": 475,
     "dailyMinutesDown": {
-      "2021-08-19": 297,
+      "2021-08-19": 309,
       "2021-08-18": 1440,
       "2021-08-17": 1440,
       "2021-08-16": 1440,
@@ -244,7 +244,7 @@
     "timeMonth": 13,
     "timeYear": 454,
     "dailyMinutesDown": {
-      "2021-08-19": 298,
+      "2021-08-19": 310,
       "2021-08-18": 1440,
       "2021-08-17": 1440,
       "2021-08-16": 1440,
@@ -303,7 +303,7 @@
     "uptimeYear": "99.99%",
     "time": 1404,
     "timeDay": 1586,
-    "timeWeek": 1690,
+    "timeWeek": 1691,
     "timeMonth": 1665,
     "timeYear": 1404,
     "dailyMinutesDown": {
@@ -347,7 +347,7 @@
     "timeMonth": 14,
     "timeYear": 476,
     "dailyMinutesDown": {
-      "2021-08-19": 299,
+      "2021-08-19": 311,
       "2021-08-18": 1440,
       "2021-08-17": 1440,
       "2021-08-16": 1440,
