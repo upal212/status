@@ -16,7 +16,7 @@
     "timeMonth": 88,
     "timeYear": 735,
     "dailyMinutesDown": {
-      "2021-08-19": 393,
+      "2021-08-19": 409,
       "2021-08-18": 1440,
       "2021-08-17": 1440,
       "2021-08-16": 1440,
@@ -97,7 +97,7 @@
     "timeMonth": 14,
     "timeYear": 497,
     "dailyMinutesDown": {
-      "2021-08-19": 394,
+      "2021-08-19": 410,
       "2021-08-18": 1440,
       "2021-08-17": 1440,
       "2021-08-16": 1440,
@@ -149,18 +149,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "amsterdam-netherlands",
     "status": "up",
-    "uptime": "99.57%",
-    "uptimeDay": "59.75%",
-    "uptimeWeek": "94.25%",
-    "uptimeMonth": "98.68%",
-    "uptimeYear": "99.57%",
+    "uptime": "99.56%",
+    "uptimeDay": "58.64%",
+    "uptimeWeek": "94.09%",
+    "uptimeMonth": "98.64%",
+    "uptimeYear": "99.56%",
     "time": 264,
     "timeDay": 269,
     "timeWeek": 279,
     "timeMonth": 272,
     "timeYear": 264,
     "dailyMinutesDown": {
-      "2021-08-19": 394,
+      "2021-08-19": 410,
       "2021-08-18": 185
     }
   },
@@ -181,7 +181,7 @@
     "timeMonth": 14,
     "timeYear": 475,
     "dailyMinutesDown": {
-      "2021-08-19": 395,
+      "2021-08-19": 411,
       "2021-08-18": 1440,
       "2021-08-17": 1440,
       "2021-08-16": 1440,
@@ -244,7 +244,7 @@
     "timeMonth": 13,
     "timeYear": 454,
     "dailyMinutesDown": {
-      "2021-08-19": 395,
+      "2021-08-19": 411,
       "2021-08-18": 1440,
       "2021-08-17": 1440,
       "2021-08-16": 1440,
@@ -347,7 +347,7 @@
     "timeMonth": 14,
     "timeYear": 475,
     "dailyMinutesDown": {
-      "2021-08-19": 396,
+      "2021-08-19": 412,
       "2021-08-18": 1440,
       "2021-08-17": 1440,
       "2021-08-16": 1440,
@@ -398,19 +398,19 @@
     "url": "$HYDERABAD",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "hyderabad-india",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 263,
     "timeDay": 271,
     "timeWeek": 279,
     "timeMonth": 266,
     "timeYear": 263,
     "dailyMinutesDown": {
-      "2021-08-19": 3
+      "2021-08-19": 16
     }
   }
 ]
