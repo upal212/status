@@ -16,7 +16,7 @@
     "timeMonth": 90,
     "timeYear": 707,
     "dailyMinutesDown": {
-      "2021-08-22": 1148,
+      "2021-08-22": 1158,
       "2021-08-21": 1440,
       "2021-08-20": 1440,
       "2021-08-19": 1440,
@@ -102,7 +102,7 @@
     "timeMonth": 15,
     "timeYear": 476,
     "dailyMinutesDown": {
-      "2021-08-22": 1148,
+      "2021-08-22": 1159,
       "2021-08-21": 1440,
       "2021-08-20": 1440,
       "2021-08-19": 1440,
@@ -178,18 +178,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "frankfurt-germany",
     "status": "down",
-    "uptime": "55.60%",
+    "uptime": "55.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "55.60%",
+    "uptimeYear": "55.59%",
     "time": 454,
     "timeDay": 17,
     "timeWeek": 18,
     "timeMonth": 14,
     "timeYear": 454,
     "dailyMinutesDown": {
-      "2021-08-22": 1149,
+      "2021-08-22": 1160,
       "2021-08-21": 1440,
       "2021-08-20": 1440,
       "2021-08-19": 1440,
@@ -255,7 +255,7 @@
     "timeMonth": 14,
     "timeYear": 434,
     "dailyMinutesDown": {
-      "2021-08-22": 1150,
+      "2021-08-22": 1160,
       "2021-08-21": 1440,
       "2021-08-20": 1440,
       "2021-08-19": 1440,
@@ -318,7 +318,7 @@
     "time": 1418,
     "timeDay": 1701,
     "timeWeek": 1670,
-    "timeMonth": 1670,
+    "timeMonth": 1669,
     "timeYear": 1418,
     "dailyMinutesDown": {
       "2021-08-10": 16
@@ -361,7 +361,7 @@
     "timeMonth": 14,
     "timeYear": 455,
     "dailyMinutesDown": {
-      "2021-08-22": 1151,
+      "2021-08-22": 1161,
       "2021-08-21": 1440,
       "2021-08-20": 1440,
       "2021-08-19": 1440,
@@ -424,7 +424,7 @@
     "time": 264,
     "timeDay": 283,
     "timeWeek": 281,
-    "timeMonth": 270,
+    "timeMonth": 269,
     "timeYear": 264,
     "dailyMinutesDown": {
       "2021-08-19": 236
