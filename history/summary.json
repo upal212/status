@@ -16,7 +16,7 @@
     "timeMonth": 91,
     "timeYear": 576,
     "dailyMinutesDown": {
-      "2021-09-12": 823,
+      "2021-09-12": 833,
       "2021-09-11": 1440,
       "2021-09-10": 1440,
       "2021-09-09": 1440,
@@ -98,7 +98,7 @@
     "uptimeMonth": "99.47%",
     "uptimeYear": "99.87%",
     "time": 367,
-    "timeDay": 356,
+    "timeDay": 355,
     "timeWeek": 360,
     "timeMonth": 369,
     "timeYear": 367,
@@ -123,7 +123,7 @@
     "timeMonth": 15,
     "timeYear": 377,
     "dailyMinutesDown": {
-      "2021-09-12": 825,
+      "2021-09-12": 834,
       "2021-09-11": 1440,
       "2021-09-10": 1440,
       "2021-09-09": 1440,
@@ -205,8 +205,8 @@
     "uptimeMonth": "97.84%",
     "uptimeYear": "99.44%",
     "time": 249,
-    "timeDay": 146,
-    "timeWeek": 150,
+    "timeDay": 145,
+    "timeWeek": 149,
     "timeMonth": 217,
     "timeYear": 249,
     "dailyMinutesDown": {
@@ -231,7 +231,7 @@
     "timeMonth": 15,
     "timeYear": 361,
     "dailyMinutesDown": {
-      "2021-09-12": 826,
+      "2021-09-12": 836,
       "2021-09-11": 1440,
       "2021-09-10": 1440,
       "2021-09-09": 1440,
@@ -318,7 +318,7 @@
     "timeMonth": 15,
     "timeYear": 345,
     "dailyMinutesDown": {
-      "2021-09-12": 827,
+      "2021-09-12": 837,
       "2021-09-11": 1440,
       "2021-09-10": 1440,
       "2021-09-09": 1440,
@@ -401,7 +401,7 @@
     "uptimeYear": "99.93%",
     "time": 1473,
     "timeDay": 1663,
-    "timeWeek": 1703,
+    "timeWeek": 1702,
     "timeMonth": 1684,
     "timeYear": 1473,
     "dailyMinutesDown": {
@@ -448,7 +448,7 @@
     "timeMonth": 16,
     "timeYear": 361,
     "dailyMinutesDown": {
-      "2021-09-12": 829,
+      "2021-09-12": 839,
       "2021-09-11": 1440,
       "2021-09-10": 1440,
       "2021-09-09": 1440,
@@ -530,9 +530,9 @@
     "uptimeMonth": "99.46%",
     "uptimeYear": "99.86%",
     "time": 247,
-    "timeDay": 146,
+    "timeDay": 145,
     "timeWeek": 149,
-    "timeMonth": 217,
+    "timeMonth": 216,
     "timeYear": 247,
     "dailyMinutesDown": {
       "2021-08-19": 236
