@@ -16,7 +16,7 @@
     "timeMonth": 89,
     "timeYear": 558,
     "dailyMinutesDown": {
-      "2021-09-16": 610,
+      "2021-09-16": 630,
       "2021-09-15": 1440,
       "2021-09-14": 1440,
       "2021-09-13": 1440,
@@ -102,9 +102,9 @@
     "uptimeMonth": "99.47%",
     "uptimeYear": "99.87%",
     "time": 367,
-    "timeDay": 394,
+    "timeDay": 393,
     "timeWeek": 374,
-    "timeMonth": 371,
+    "timeMonth": 366,
     "timeYear": 367,
     "dailyMinutesDown": {
       "2021-08-19": 231
@@ -127,7 +127,7 @@
     "timeMonth": 15,
     "timeYear": 364,
     "dailyMinutesDown": {
-      "2021-09-16": 612,
+      "2021-09-16": 632,
       "2021-09-15": 1440,
       "2021-09-14": 1440,
       "2021-09-13": 1440,
@@ -228,18 +228,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "frankfurt-germany",
     "status": "down",
-    "uptime": "44.93%",
+    "uptime": "44.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "44.93%",
+    "uptimeYear": "44.92%",
     "time": 349,
     "timeDay": 14,
     "timeWeek": 14,
     "timeMonth": 15,
     "timeYear": 349,
     "dailyMinutesDown": {
-      "2021-09-16": 614,
+      "2021-09-16": 634,
       "2021-09-15": 1440,
       "2021-09-14": 1440,
       "2021-09-13": 1440,
@@ -330,7 +330,7 @@
     "timeMonth": 15,
     "timeYear": 332,
     "dailyMinutesDown": {
-      "2021-09-16": 615,
+      "2021-09-16": 634,
       "2021-09-15": 1440,
       "2021-09-14": 1440,
       "2021-09-13": 1440,
@@ -416,8 +416,8 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.94%",
     "time": 1485,
-    "timeDay": 1810,
-    "timeWeek": 1759,
+    "timeDay": 1803,
+    "timeWeek": 1758,
     "timeMonth": 1694,
     "timeYear": 1485,
     "dailyMinutesDown": {
@@ -441,7 +441,7 @@
     "time": 246,
     "timeDay": 163,
     "timeWeek": 154,
-    "timeMonth": 209,
+    "timeMonth": 208,
     "timeYear": 246,
     "dailyMinutesDown": {
       "2021-08-19": 277
@@ -464,7 +464,7 @@
     "timeMonth": 15,
     "timeYear": 348,
     "dailyMinutesDown": {
-      "2021-09-16": 618,
+      "2021-09-16": 637,
       "2021-09-15": 1440,
       "2021-09-14": 1440,
       "2021-09-13": 1440,
@@ -550,7 +550,7 @@
     "uptimeMonth": "99.46%",
     "uptimeYear": "99.87%",
     "time": 244,
-    "timeDay": 164,
+    "timeDay": 163,
     "timeWeek": 154,
     "timeMonth": 202,
     "timeYear": 244,
