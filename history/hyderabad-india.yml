@@ -1,7 +1,7 @@
 url: $HYDERABAD
-status: down
-code: 403
-responseTime: 16
-lastUpdated: 2022-06-30T13:11:10.428Z
+status: up
+code: 200
+responseTime: 120
+lastUpdated: 2022-06-30T13:26:51.139Z
 startTime: Mon May 17 2021 02:20:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
