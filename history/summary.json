@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cloud-linkd-com",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "88.12%",
-    "uptimeWeek": "98.30%",
-    "uptimeMonth": "99.55%",
+    "uptime": "99.96%",
+    "uptimeDay": "86.04%",
+    "uptimeWeek": "98.01%",
+    "uptimeMonth": "99.48%",
     "uptimeYear": "99.96%",
     "time": 915,
-    "timeDay": 1450,
-    "timeWeek": 1807,
-    "timeMonth": 2093,
-    "timeYear": 911,
+    "timeDay": 1318,
+    "timeWeek": 1785,
+    "timeMonth": 2076,
+    "timeYear": 910,
     "dailyMinutesDown": {
-      "2022-06-30": 171,
+      "2022-06-30": 201,
       "2022-06-21": 25
     }
   },
@@ -26,18 +26,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cloud-linkd-lab",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "88.12%",
-    "uptimeWeek": "98.30%",
-    "uptimeMonth": "99.55%",
+    "uptime": "99.96%",
+    "uptimeDay": "86.04%",
+    "uptimeWeek": "98.01%",
+    "uptimeMonth": "99.49%",
     "uptimeYear": "99.96%",
     "time": 378,
-    "timeDay": 329,
-    "timeWeek": 365,
-    "timeMonth": 366,
+    "timeDay": 315,
+    "timeWeek": 363,
+    "timeMonth": 364,
     "timeYear": 378,
     "dailyMinutesDown": {
-      "2022-06-30": 171,
+      "2022-06-30": 201,
       "2022-06-21": 24
     }
   },
@@ -48,17 +48,17 @@
     "slug": "paris-france",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "88.12%",
-    "uptimeWeek": "98.30%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.97%",
+    "uptimeDay": "86.04%",
+    "uptimeWeek": "98.01%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.96%",
     "time": 392,
-    "timeDay": 781,
-    "timeWeek": 997,
-    "timeMonth": 1062,
+    "timeDay": 743,
+    "timeWeek": 990,
+    "timeMonth": 1055,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2022-06-30": 171
+      "2022-06-30": 201
     }
   },
   {
@@ -68,17 +68,17 @@
     "slug": "amsterdam-netherlands",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "88.12%",
-    "uptimeWeek": "98.30%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.97%",
+    "uptimeDay": "86.04%",
+    "uptimeWeek": "98.01%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.96%",
     "time": 186,
-    "timeDay": 139,
-    "timeWeek": 149,
-    "timeMonth": 168,
+    "timeDay": 131,
+    "timeWeek": 148,
+    "timeMonth": 167,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2022-06-30": 171
+      "2022-06-30": 201
     }
   },
   {
@@ -88,17 +88,17 @@
     "slug": "frankfurt-germany",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "88.12%",
-    "uptimeWeek": "98.30%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.97%",
-    "time": 385,
-    "timeDay": 777,
-    "timeWeek": 994,
-    "timeMonth": 997,
+    "uptimeDay": "86.03%",
+    "uptimeWeek": "98.00%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.96%",
+    "time": 384,
+    "timeDay": 741,
+    "timeWeek": 975,
+    "timeMonth": 990,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2022-06-30": 171
+      "2022-06-30": 201
     }
   },
   {
@@ -108,17 +108,17 @@
     "slug": "london-united-kingdom",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "88.11%",
-    "uptimeWeek": "98.30%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.97%",
+    "uptimeDay": "86.03%",
+    "uptimeWeek": "98.00%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.96%",
     "time": 378,
-    "timeDay": 784,
-    "timeWeek": 978,
-    "timeMonth": 976,
-    "timeYear": 374,
+    "timeDay": 746,
+    "timeWeek": 972,
+    "timeMonth": 970,
+    "timeYear": 373,
     "dailyMinutesDown": {
-      "2022-06-30": 171
+      "2022-06-30": 201
     }
   },
   {
@@ -127,18 +127,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "madrid-spain",
     "status": "down",
-    "uptime": "97.40%",
+    "uptime": "97.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "68.20%",
-    "uptimeYear": "97.18%",
+    "uptimeMonth": "67.65%",
+    "uptimeYear": "97.13%",
     "time": 1741,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1741,
     "dailyMinutesDown": {
-      "2022-06-30": 739,
+      "2022-06-30": 981,
       "2022-06-29": 1440,
       "2022-06-28": 1440,
       "2022-06-27": 1440,
@@ -161,17 +161,17 @@
     "slug": "montreal-canada",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "88.11%",
-    "uptimeWeek": "98.30%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.97%",
+    "uptimeDay": "86.03%",
+    "uptimeWeek": "98.00%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.96%",
     "time": 195,
-    "timeDay": 145,
-    "timeWeek": 151,
+    "timeDay": 141,
+    "timeWeek": 150,
     "timeMonth": 152,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2022-06-30": 171
+      "2022-06-30": 201
     }
   },
   {
@@ -181,17 +181,17 @@
     "slug": "singapore",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "88.11%",
-    "uptimeWeek": "98.30%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.97%",
-    "time": 401,
-    "timeDay": 763,
-    "timeWeek": 987,
-    "timeMonth": 997,
-    "timeYear": 396,
+    "uptimeDay": "86.98%",
+    "uptimeWeek": "98.14%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.96%",
+    "time": 400,
+    "timeDay": 727,
+    "timeWeek": 979,
+    "timeMonth": 991,
+    "timeYear": 395,
     "dailyMinutesDown": {
-      "2022-06-30": 171
+      "2022-06-30": 187
     }
   },
   {
@@ -201,17 +201,17 @@
     "slug": "hyderabad-india",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "89.06%",
-    "uptimeWeek": "98.44%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.97%",
+    "uptimeDay": "86.98%",
+    "uptimeWeek": "98.14%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.96%",
     "time": 184,
-    "timeDay": 135,
-    "timeWeek": 149,
-    "timeMonth": 151,
+    "timeDay": 127,
+    "timeWeek": 147,
+    "timeMonth": 150,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2022-06-30": 157
+      "2022-06-30": 187
     }
   }
 ]
