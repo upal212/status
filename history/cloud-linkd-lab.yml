@@ -1,7 +1,7 @@
 url: $LAB
-status: down
-code: 403
-responseTime: 76
-lastUpdated: 2022-07-02T05:44:08.501Z
+status: up
+code: 200
+responseTime: 406
+lastUpdated: 2022-07-02T06:12:06.939Z
 startTime: Tue May 11 2021 01:57:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
