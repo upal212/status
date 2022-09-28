@@ -1,7 +1,7 @@
 url: $PARIS
-status: up
-code: 200
-responseTime: 1268
-lastUpdated: 2022-09-28T21:54:09.350Z
+status: down
+code: 404
+responseTime: 147
+lastUpdated: 2022-09-28T22:12:21.518Z
 startTime: Mon May 17 2021 02:20:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
