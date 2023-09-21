@@ -1,7 +1,7 @@
 url: $HYDERABAD
-status: down
-code: 502
-responseTime: 14
-lastUpdated: 2023-09-21T22:12:41.690Z
+status: up
+code: 200
+responseTime: 282
+lastUpdated: 2023-09-21T22:23:12.540Z
 startTime: 2021-05-17T02:20:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
