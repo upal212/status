@@ -1,7 +1,7 @@
 url: $FRANKFURT
-status: down
-code: 521
-responseTime: 1230
-lastUpdated: 2024-05-26T20:34:07.632Z
+status: up
+code: 200
+responseTime: 915
+lastUpdated: 2024-05-26T20:41:09.852Z
 startTime: 2021-05-11T01:57:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
