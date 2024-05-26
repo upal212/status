@@ -1,7 +1,7 @@
 url: $LAB
-status: down
-code: 520
-responseTime: 2414
-lastUpdated: 2024-05-26T20:33:59.959Z
+status: up
+code: 200
+responseTime: 312
+lastUpdated: 2024-05-26T20:41:02.857Z
 startTime: 2021-05-11T01:57:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
