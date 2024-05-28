@@ -1,7 +1,7 @@
 url: $PARIS
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-05-28T07:04:05.410Z
+status: up
+code: 200
+responseTime: 847
+lastUpdated: 2024-05-28T07:57:44.166Z
 startTime: 2021-05-17T02:20:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
