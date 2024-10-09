@@ -1,7 +1,7 @@
 url: $CLOUDLINKD
-status: down
-code: 502
-responseTime: 412
-lastUpdated: 2024-10-09T17:41:03.744Z
+status: up
+code: 200
+responseTime: 592
+lastUpdated: 2024-10-09T17:46:16.924Z
 startTime: 2021-05-11T01:57:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
