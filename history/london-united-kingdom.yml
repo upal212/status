@@ -1,7 +1,7 @@
 url: $LONDON
-status: down
-code: 502
-responseTime: 100
-lastUpdated: 2024-10-09T17:41:10.064Z
+status: up
+code: 200
+responseTime: 254
+lastUpdated: 2024-10-09T17:46:24.131Z
 startTime: 2021-05-17T02:20:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
