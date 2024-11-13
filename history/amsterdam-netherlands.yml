@@ -1,7 +1,7 @@
 url: $AMSTERDAM
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-11-13T07:37:47.265Z
+status: up
+code: 200
+responseTime: 165
+lastUpdated: 2024-11-13T07:44:37.996Z
 startTime: 2021-05-17T02:20:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
