@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "98.53%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "94.22%",
-    "time": 3080,
-    "timeDay": 3599,
-    "timeWeek": 3632,
-    "timeMonth": 3677,
-    "timeYear": 3079,
+    "time": 3081,
+    "timeDay": 3729,
+    "timeWeek": 3655,
+    "timeMonth": 3660,
+    "timeYear": 3077,
     "dailyMinutesDown": {
       "2025-05-26": 17,
       "2025-05-23": 21,
@@ -56,8 +56,7 @@
       "2024-08-18": 92,
       "2024-08-17": 32,
       "2024-08-04": 68,
-      "2024-06-04": 44,
-      "2024-06-03": 385
+      "2024-06-04": 44
     }
   },
   {
@@ -66,18 +65,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cloud-linkd-lab",
     "status": "down",
-    "uptime": "89.00%",
+    "uptime": "88.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "55.46%",
+    "uptimeYear": "54.89%",
     "time": 1048,
-    "timeDay": 381,
-    "timeWeek": 377,
+    "timeDay": 391,
+    "timeWeek": 382,
     "timeMonth": 375,
-    "timeYear": 1052,
+    "timeYear": 1053,
     "dailyMinutesDown": {
-      "2025-06-01": 3,
+      "2025-06-03": 131,
+      "2025-06-02": 1440,
+      "2025-06-01": 1440,
       "2025-05-31": 1440,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
@@ -245,8 +246,7 @@
       "2024-09-21": 18,
       "2024-09-02": 778,
       "2024-08-17": 32,
-      "2024-06-04": 44,
-      "2024-06-03": 424
+      "2024-06-04": 44
     }
   },
   {
@@ -257,14 +257,14 @@
     "status": "up",
     "uptime": "99.42%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "97.83%",
-    "time": 2520,
-    "timeDay": 3002,
-    "timeWeek": 3090,
-    "timeMonth": 3152,
-    "timeYear": 2529,
+    "time": 2533,
+    "timeDay": 3235,
+    "timeWeek": 3114,
+    "timeMonth": 3134,
+    "timeYear": 2539,
     "dailyMinutesDown": {
       "2025-05-26": 17,
       "2025-05-07": 34,
@@ -292,8 +292,7 @@
       "2024-08-17": 32,
       "2024-08-04": 66,
       "2024-06-20": 16,
-      "2024-06-04": 44,
-      "2024-06-03": 370
+      "2024-06-04": 44
     }
   },
   {
@@ -302,18 +301,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "amsterdam-netherlands",
     "status": "down",
-    "uptime": "88.97%",
+    "uptime": "88.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "55.49%",
+    "uptimeYear": "54.92%",
     "time": 874,
-    "timeDay": 266,
-    "timeWeek": 262,
-    "timeMonth": 259,
-    "timeYear": 878,
+    "timeDay": 301,
+    "timeWeek": 269,
+    "timeMonth": 261,
+    "timeYear": 880,
     "dailyMinutesDown": {
-      "2025-06-01": 15,
+      "2025-06-03": 143,
+      "2025-06-02": 1440,
+      "2025-06-01": 1440,
       "2025-05-31": 1440,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
@@ -480,8 +481,7 @@
       "2024-10-18": 944,
       "2024-09-02": 775,
       "2024-08-17": 32,
-      "2024-06-04": 45,
-      "2024-06-03": 267
+      "2024-06-04": 45
     }
   },
   {
@@ -490,16 +490,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "frankfurt-germany",
     "status": "up",
-    "uptime": "97.30%",
+    "uptime": "97.31%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "89.21%",
-    "time": 2478,
-    "timeDay": 2981,
-    "timeWeek": 3049,
-    "timeMonth": 3089,
-    "timeYear": 2487,
+    "time": 2492,
+    "timeDay": 3523,
+    "timeWeek": 3122,
+    "timeMonth": 3095,
+    "timeYear": 2499,
     "dailyMinutesDown": {
       "2025-05-26": 18,
       "2025-05-07": 34,
@@ -557,8 +557,7 @@
       "2024-08-08": 27,
       "2024-08-04": 64,
       "2024-06-20": 16,
-      "2024-06-04": 45,
-      "2024-06-03": 352
+      "2024-06-04": 45
     }
   },
   {
@@ -569,14 +568,14 @@
     "status": "up",
     "uptime": "97.20%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "88.82%",
-    "time": 2449,
-    "timeDay": 2942,
+    "time": 2457,
+    "timeDay": 3135,
     "timeWeek": 3061,
-    "timeMonth": 3094,
-    "timeYear": 2455,
+    "timeMonth": 3088,
+    "timeYear": 2466,
     "dailyMinutesDown": {
       "2025-05-26": 18,
       "2025-03-17": 1256,
@@ -633,8 +632,7 @@
       "2024-08-17": 32,
       "2024-08-04": 58,
       "2024-06-20": 16,
-      "2024-06-04": 45,
-      "2024-06-03": 319
+      "2024-06-04": 45
     }
   },
   {
@@ -643,18 +641,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "montreal-canada",
     "status": "down",
-    "uptime": "88.99%",
+    "uptime": "88.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "55.55%",
-    "time": 861,
-    "timeDay": 267,
-    "timeWeek": 260,
-    "timeMonth": 261,
-    "timeYear": 865,
+    "uptimeYear": "54.98%",
+    "time": 862,
+    "timeDay": 282,
+    "timeWeek": 264,
+    "timeMonth": 260,
+    "timeYear": 867,
     "dailyMinutesDown": {
-      "2025-06-01": 29,
+      "2025-06-03": 159,
+      "2025-06-02": 1440,
+      "2025-06-01": 1440,
       "2025-05-31": 1440,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
@@ -831,14 +831,14 @@
     "status": "up",
     "uptime": "97.18%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "88.73%",
-    "time": 2476,
-    "timeDay": 2963,
-    "timeWeek": 3036,
-    "timeMonth": 3069,
-    "timeYear": 2480,
+    "time": 2484,
+    "timeDay": 3215,
+    "timeWeek": 3050,
+    "timeMonth": 3063,
+    "timeYear": 2492,
     "dailyMinutesDown": {
       "2025-05-26": 18,
       "2025-04-15": 37,
@@ -898,8 +898,7 @@
       "2024-08-17": 32,
       "2024-08-04": 56,
       "2024-06-20": 16,
-      "2024-06-04": 45,
-      "2024-06-03": 399
+      "2024-06-04": 45
     }
   },
   {
@@ -908,18 +907,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hyderabad-india",
     "status": "down",
-    "uptime": "88.98%",
+    "uptime": "88.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "55.50%",
-    "time": 832,
-    "timeDay": 266,
-    "timeWeek": 263,
+    "uptimeYear": "54.93%",
+    "time": 833,
+    "timeDay": 282,
+    "timeWeek": 267,
     "timeMonth": 260,
-    "timeYear": 837,
+    "timeYear": 838,
     "dailyMinutesDown": {
-      "2025-06-01": 39,
+      "2025-06-03": 169,
+      "2025-06-02": 1440,
+      "2025-06-01": 1440,
       "2025-05-31": 1440,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
@@ -1086,8 +1087,7 @@
       "2024-10-18": 943,
       "2024-09-02": 768,
       "2024-08-17": 32,
-      "2024-06-04": 2,
-      "2024-06-03": 238
+      "2024-06-04": 2
     }
   }
 ]
