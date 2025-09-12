@@ -1,7 +1,7 @@
 url: $SINGAPORE
-status: down
-code: 522
-responseTime: 19261
-lastUpdated: 2025-09-12T09:56:49.846Z
+status: up
+code: 200
+responseTime: 3900
+lastUpdated: 2025-09-12T10:01:03.089Z
 startTime: 2021-05-17T02:20:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
