@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.68%",
-    "time": 4004,
-    "timeDay": 3264,
-    "timeWeek": 4103,
-    "timeMonth": 4537,
-    "timeYear": 3996,
+    "uptimeYear": "87.73%",
+    "time": 3994,
+    "timeDay": 3291,
+    "timeWeek": 3478,
+    "timeMonth": 4465,
+    "timeYear": 3974,
     "dailyMinutesDown": {
       "2025-10-08": 16,
       "2025-10-07": 159,
@@ -78,8 +78,7 @@
       "2024-12-12": 17,
       "2024-12-11": 92,
       "2024-12-05": 21,
-      "2024-11-30": 28,
-      "2024-11-12": 281
+      "2024-11-30": 28
     }
   },
   {
@@ -88,16 +87,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cloud-linkd-lab",
     "status": "up",
-    "uptime": "85.56%",
+    "uptime": "85.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "41.74%",
-    "time": 577,
-    "timeDay": 487,
-    "timeWeek": 503,
+    "uptimeYear": "42.29%",
+    "time": 528,
+    "timeDay": 522,
+    "timeWeek": 504,
     "timeMonth": 511,
-    "timeYear": 503,
+    "timeYear": 445,
     "dailyMinutesDown": {
       "2025-08-14": 895,
       "2025-08-13": 1440,
@@ -311,9 +310,7 @@
       "2025-01-17": 1440,
       "2025-01-16": 928,
       "2024-11-30": 59,
-      "2024-11-13": 465,
-      "2024-11-12": 1440,
-      "2024-11-11": 1440
+      "2024-11-13": 465
     }
   },
   {
@@ -324,14 +321,14 @@
     "status": "up",
     "uptime": "99.46%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.47%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "98.04%",
-    "time": 3449,
-    "timeDay": 2634,
-    "timeWeek": 3329,
-    "timeMonth": 3900,
-    "timeYear": 3442,
+    "uptimeYear": "98.10%",
+    "time": 3439,
+    "timeDay": 2659,
+    "timeWeek": 2891,
+    "timeMonth": 3826,
+    "timeYear": 3421,
     "dailyMinutesDown": {
       "2025-11-05": 38,
       "2025-11-04": 16,
@@ -355,8 +352,7 @@
       "2024-12-26": 281,
       "2024-12-21": 50,
       "2024-12-11": 302,
-      "2024-11-30": 28,
-      "2024-11-12": 280
+      "2024-11-30": 28
     }
   },
   {
@@ -365,16 +361,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "amsterdam-netherlands",
     "status": "up",
-    "uptime": "85.51%",
+    "uptime": "85.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "41.75%",
-    "time": 361,
-    "timeDay": 199,
-    "timeWeek": 204,
-    "timeMonth": 205,
-    "timeYear": 281,
+    "uptimeYear": "42.29%",
+    "time": 309,
+    "timeDay": 249,
+    "timeWeek": 215,
+    "timeMonth": 207,
+    "timeYear": 233,
     "dailyMinutesDown": {
       "2025-08-14": 895,
       "2025-08-13": 1440,
@@ -587,9 +583,7 @@
       "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 928,
-      "2024-11-30": 59,
-      "2024-11-13": 465,
-      "2024-11-12": 1440
+      "2024-11-30": 59
     }
   },
   {
@@ -598,18 +592,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "frankfurt-germany",
     "status": "up",
-    "uptime": "96.74%",
+    "uptime": "96.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "56.32%",
-    "uptimeYear": "85.75%",
-    "time": 3399,
-    "timeDay": 2580,
-    "timeWeek": 3324,
-    "timeMonth": 3823,
-    "timeYear": 3392,
+    "uptimeMonth": "49.74%",
+    "uptimeYear": "85.26%",
+    "time": 3390,
+    "timeDay": 2611,
+    "timeWeek": 2800,
+    "timeMonth": 3750,
+    "timeYear": 3370,
     "dailyMinutesDown": {
-      "2025-11-11": 13,
+      "2025-11-13": 15,
+      "2025-11-12": 1440,
+      "2025-11-11": 1440,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
       "2025-11-08": 1440,
@@ -674,8 +670,7 @@
       "2024-12-21": 50,
       "2024-12-11": 84,
       "2024-12-05": 97,
-      "2024-11-30": 28,
-      "2024-11-12": 279
+      "2024-11-30": 28
     }
   },
   {
@@ -688,12 +683,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.94%",
-    "time": 3375,
-    "timeDay": 2562,
-    "timeWeek": 3393,
-    "timeMonth": 3826,
-    "timeYear": 3369,
+    "uptimeYear": "88.99%",
+    "time": 3368,
+    "timeDay": 2618,
+    "timeWeek": 2863,
+    "timeMonth": 3752,
+    "timeYear": 3350,
     "dailyMinutesDown": {
       "2025-10-08": 595,
       "2025-10-07": 59,
@@ -746,8 +741,7 @@
       "2024-12-26": 268,
       "2024-12-21": 51,
       "2024-12-11": 32,
-      "2024-11-30": 28,
-      "2024-11-12": 277
+      "2024-11-30": 28
     }
   },
   {
@@ -756,16 +750,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "montreal-canada",
     "status": "up",
-    "uptime": "85.53%",
+    "uptime": "85.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "41.75%",
-    "time": 341,
+    "uptimeYear": "42.30%",
+    "time": 294,
     "timeDay": 137,
-    "timeWeek": 134,
+    "timeWeek": 135,
     "timeMonth": 145,
-    "timeYear": 267,
+    "timeYear": 211,
     "dailyMinutesDown": {
       "2025-08-14": 895,
       "2025-08-13": 1440,
@@ -978,9 +972,7 @@
       "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 928,
-      "2024-11-30": 59,
-      "2024-11-13": 465,
-      "2024-11-12": 1440
+      "2024-11-30": 59
     }
   },
   {
@@ -993,12 +985,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.98%",
-    "time": 3391,
-    "timeDay": 2578,
-    "timeWeek": 3394,
-    "timeMonth": 3821,
-    "timeYear": 3383,
+    "uptimeYear": "89.03%",
+    "time": 3382,
+    "timeDay": 2740,
+    "timeWeek": 2811,
+    "timeMonth": 3753,
+    "timeYear": 3362,
     "dailyMinutesDown": {
       "2025-10-08": 17,
       "2025-10-07": 65,
@@ -1054,8 +1046,7 @@
       "2024-12-21": 51,
       "2024-12-11": 31,
       "2024-12-05": 21,
-      "2024-11-30": 28,
-      "2024-11-12": 276
+      "2024-11-30": 28
     }
   },
   {
@@ -1064,16 +1055,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hyderabad-india",
     "status": "up",
-    "uptime": "85.52%",
+    "uptime": "85.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "41.75%",
-    "time": 332,
-    "timeDay": 126,
-    "timeWeek": 128,
-    "timeMonth": 144,
-    "timeYear": 265,
+    "uptimeYear": "42.30%",
+    "time": 289,
+    "timeDay": 145,
+    "timeWeek": 130,
+    "timeMonth": 145,
+    "timeYear": 214,
     "dailyMinutesDown": {
       "2025-08-14": 896,
       "2025-08-13": 1440,
@@ -1286,9 +1277,7 @@
       "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 928,
-      "2024-11-30": 59,
-      "2024-11-13": 465,
-      "2024-11-12": 1440
+      "2024-11-30": 59
     }
   }
 ]
