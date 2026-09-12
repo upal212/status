@@ -12,8 +12,8 @@
     "uptimeYear": "28.97%",
     "time": 5951,
     "timeDay": 890,
-    "timeWeek": 582,
-    "timeMonth": 434,
+    "timeWeek": 593,
+    "timeMonth": 435,
     "timeYear": 5963,
     "dailyMinutesDown": {
       "2025-10-01": 86,
@@ -290,16 +290,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cloud-linkd-lab",
     "status": "down",
-    "uptime": "74.64%",
-    "uptimeDay": "76.61%",
-    "uptimeWeek": "96.66%",
-    "uptimeMonth": "99.23%",
-    "uptimeYear": "29.55%",
+    "uptime": "74.63%",
+    "uptimeDay": "67.51%",
+    "uptimeWeek": "95.36%",
+    "uptimeMonth": "98.93%",
+    "uptimeYear": "29.52%",
     "time": 4438,
     "timeDay": 0,
-    "timeWeek": 480,
+    "timeWeek": 485,
     "timeMonth": 429,
-    "timeYear": 4482,
+    "timeYear": 4484,
     "dailyMinutesDown": {
       "2025-11-18": 94,
       "2026-08-10": 134,
@@ -560,7 +560,7 @@
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1103,
-      "2026-09-12": 337
+      "2026-09-12": 468
     }
   },
   {
@@ -569,7 +569,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "paris-france",
     "status": "up",
-    "uptime": "86.22%",
+    "uptime": "86.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.12%",
     "uptimeMonth": "99.57%",
@@ -578,7 +578,7 @@
     "timeDay": 813,
     "timeWeek": 475,
     "timeMonth": 404,
-    "timeYear": 5705,
+    "timeYear": 5706,
     "dailyMinutesDown": {
       "2025-10-07": 204,
       "2025-11-04": 16,
@@ -853,16 +853,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "amsterdam-netherlands",
     "status": "down",
-    "uptime": "74.57%",
-    "uptimeDay": "76.19%",
-    "uptimeWeek": "96.60%",
-    "uptimeMonth": "99.22%",
-    "uptimeYear": "29.54%",
+    "uptime": "74.56%",
+    "uptimeDay": "67.10%",
+    "uptimeWeek": "95.30%",
+    "uptimeMonth": "98.92%",
+    "uptimeYear": "29.52%",
     "time": 4247,
     "timeDay": 0,
-    "timeWeek": 388,
-    "timeMonth": 402,
-    "timeYear": 4292,
+    "timeWeek": 384,
+    "timeMonth": 403,
+    "timeYear": 4295,
     "dailyMinutesDown": {
       "2025-11-18": 94,
       "2026-08-10": 134,
@@ -1123,7 +1123,7 @@
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1103,
-      "2026-09-12": 343
+      "2026-09-12": 474
     }
   },
   {
@@ -1139,9 +1139,9 @@
     "uptimeYear": "23.26%",
     "time": 5707,
     "timeDay": 779,
-    "timeWeek": 511,
-    "timeMonth": 426,
-    "timeYear": 5723,
+    "timeWeek": 514,
+    "timeMonth": 425,
+    "timeYear": 5724,
     "dailyMinutesDown": {
       "2025-10-07": 373,
       "2025-11-18": 804,
@@ -1442,9 +1442,9 @@
     "uptimeYear": "28.90%",
     "time": 5634,
     "timeDay": 284,
-    "timeWeek": 409,
-    "timeMonth": 411,
-    "timeYear": 5651,
+    "timeWeek": 411,
+    "timeMonth": 412,
+    "timeYear": 5652,
     "dailyMinutesDown": {
       "2025-10-07": 59,
       "2025-10-08": 595,
@@ -1719,15 +1719,15 @@
     "slug": "montreal-canada",
     "status": "down",
     "uptime": "74.58%",
-    "uptimeDay": "75.57%",
-    "uptimeWeek": "96.51%",
-    "uptimeMonth": "99.20%",
-    "uptimeYear": "29.54%",
+    "uptimeDay": "66.47%",
+    "uptimeWeek": "95.21%",
+    "uptimeMonth": "98.90%",
+    "uptimeYear": "29.52%",
     "time": 4247,
     "timeDay": 0,
-    "timeWeek": 383,
+    "timeWeek": 388,
     "timeMonth": 465,
-    "timeYear": 4294,
+    "timeYear": 4295,
     "dailyMinutesDown": {
       "2025-11-18": 94,
       "2026-08-10": 135,
@@ -1988,7 +1988,7 @@
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1103,
-      "2026-09-12": 352
+      "2026-09-12": 483
     }
   },
   {
@@ -2004,9 +2004,9 @@
     "uptimeYear": "29.01%",
     "time": 5694,
     "timeDay": 842,
-    "timeWeek": 440,
-    "timeMonth": 390,
-    "timeYear": 5708,
+    "timeWeek": 443,
+    "timeMonth": 389,
+    "timeYear": 5709,
     "dailyMinutesDown": {
       "2025-10-07": 65,
       "2025-10-08": 17,
@@ -2281,15 +2281,15 @@
     "slug": "hyderabad-india",
     "status": "down",
     "uptime": "74.57%",
-    "uptimeDay": "75.17%",
-    "uptimeWeek": "96.45%",
-    "uptimeMonth": "99.18%",
-    "uptimeYear": "29.54%",
+    "uptimeDay": "66.07%",
+    "uptimeWeek": "95.15%",
+    "uptimeMonth": "98.88%",
+    "uptimeYear": "29.52%",
     "time": 4217,
     "timeDay": 0,
-    "timeWeek": 379,
+    "timeWeek": 374,
     "timeMonth": 394,
-    "timeYear": 4263,
+    "timeYear": 4265,
     "dailyMinutesDown": {
       "2025-11-18": 94,
       "2026-08-10": 135,
@@ -2550,7 +2550,7 @@
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1103,
-      "2026-09-12": 358
+      "2026-09-12": 489
     }
   }
 ]
