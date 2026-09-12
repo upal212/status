@@ -12,9 +12,9 @@
     "uptimeYear": "28.97%",
     "time": 5951,
     "timeDay": 890,
-    "timeWeek": 575,
+    "timeWeek": 582,
     "timeMonth": 434,
-    "timeYear": 5962,
+    "timeYear": 5963,
     "dailyMinutesDown": {
       "2025-10-01": 86,
       "2025-10-07": 159,
@@ -291,15 +291,15 @@
     "slug": "cloud-linkd-lab",
     "status": "down",
     "uptime": "74.64%",
-    "uptimeDay": "88.47%",
-    "uptimeWeek": "98.35%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "29.58%",
+    "uptimeDay": "76.61%",
+    "uptimeWeek": "96.66%",
+    "uptimeMonth": "99.23%",
+    "uptimeYear": "29.55%",
     "time": 4438,
     "timeDay": 0,
-    "timeWeek": 477,
+    "timeWeek": 480,
     "timeMonth": 429,
-    "timeYear": 4480,
+    "timeYear": 4482,
     "dailyMinutesDown": {
       "2025-11-18": 94,
       "2026-08-10": 134,
@@ -560,7 +560,7 @@
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1103,
-      "2026-09-12": 166
+      "2026-09-12": 337
     }
   },
   {
@@ -576,7 +576,7 @@
     "uptimeYear": "28.98%",
     "time": 5690,
     "timeDay": 813,
-    "timeWeek": 467,
+    "timeWeek": 475,
     "timeMonth": 404,
     "timeYear": 5705,
     "dailyMinutesDown": {
@@ -854,15 +854,15 @@
     "slug": "amsterdam-netherlands",
     "status": "down",
     "uptime": "74.57%",
-    "uptimeDay": "88.04%",
-    "uptimeWeek": "98.29%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "29.58%",
+    "uptimeDay": "76.19%",
+    "uptimeWeek": "96.60%",
+    "uptimeMonth": "99.22%",
+    "uptimeYear": "29.54%",
     "time": 4247,
     "timeDay": 0,
-    "timeWeek": 387,
+    "timeWeek": 388,
     "timeMonth": 402,
-    "timeYear": 4289,
+    "timeYear": 4292,
     "dailyMinutesDown": {
       "2025-11-18": 94,
       "2026-08-10": 134,
@@ -1123,7 +1123,7 @@
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1103,
-      "2026-09-12": 172
+      "2026-09-12": 343
     }
   },
   {
@@ -1141,7 +1141,7 @@
     "timeDay": 779,
     "timeWeek": 511,
     "timeMonth": 426,
-    "timeYear": 5724,
+    "timeYear": 5723,
     "dailyMinutesDown": {
       "2025-10-07": 373,
       "2025-11-18": 804,
@@ -1442,9 +1442,9 @@
     "uptimeYear": "28.90%",
     "time": 5634,
     "timeDay": 284,
-    "timeWeek": 408,
-    "timeMonth": 414,
-    "timeYear": 5650,
+    "timeWeek": 409,
+    "timeMonth": 411,
+    "timeYear": 5651,
     "dailyMinutesDown": {
       "2025-10-07": 59,
       "2025-10-08": 595,
@@ -1719,15 +1719,15 @@
     "slug": "montreal-canada",
     "status": "down",
     "uptime": "74.58%",
-    "uptimeDay": "87.41%",
-    "uptimeWeek": "98.20%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "29.58%",
+    "uptimeDay": "75.57%",
+    "uptimeWeek": "96.51%",
+    "uptimeMonth": "99.20%",
+    "uptimeYear": "29.54%",
     "time": 4247,
     "timeDay": 0,
-    "timeWeek": 388,
-    "timeMonth": 464,
-    "timeYear": 4291,
+    "timeWeek": 383,
+    "timeMonth": 465,
+    "timeYear": 4294,
     "dailyMinutesDown": {
       "2025-11-18": 94,
       "2026-08-10": 135,
@@ -1988,7 +1988,7 @@
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1103,
-      "2026-09-12": 181
+      "2026-09-12": 352
     }
   },
   {
@@ -2004,7 +2004,7 @@
     "uptimeYear": "29.01%",
     "time": 5694,
     "timeDay": 842,
-    "timeWeek": 433,
+    "timeWeek": 440,
     "timeMonth": 390,
     "timeYear": 5708,
     "dailyMinutesDown": {
@@ -2280,16 +2280,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hyderabad-india",
     "status": "down",
-    "uptime": "74.58%",
-    "uptimeDay": "86.99%",
-    "uptimeWeek": "98.14%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "29.57%",
+    "uptime": "74.57%",
+    "uptimeDay": "75.17%",
+    "uptimeWeek": "96.45%",
+    "uptimeMonth": "99.18%",
+    "uptimeYear": "29.54%",
     "time": 4217,
     "timeDay": 0,
-    "timeWeek": 382,
+    "timeWeek": 379,
     "timeMonth": 394,
-    "timeYear": 4260,
+    "timeYear": 4263,
     "dailyMinutesDown": {
       "2025-11-18": 94,
       "2026-08-10": 135,
@@ -2550,7 +2550,7 @@
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1103,
-      "2026-09-12": 187
+      "2026-09-12": 358
     }
   }
 ]
